@@ -1,6 +1,8 @@
 Silex Template
 ==============
 
+[![Build Status](https://travis-ci.org/herrera-io/php-silex-template.png)](http://travis-ci.org/herrera-io/php-silex-template)
+
 A Silex service provider for Template.
 
 Summary
