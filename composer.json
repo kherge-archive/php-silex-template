@@ -2,7 +2,7 @@
     "name": "herrera-io/silex-template",
     "description": "A Silex service provider for Template.",
     "keywords": ["silex", "template"],
-    "homepage": "https://herrera-io.github.com/php-silex-template",
+    "homepage": "http://herrera-io.github.com/php-silex-template",
     "license": "MIT",
     "authors": [
         {
